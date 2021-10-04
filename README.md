@@ -1,5 +1,3 @@
-Analisis numeris untuk menentukan laju pertumbuhan infeksi COVID-19 di beberapa negara.
+# Numerical Analysis of COVID-19 Growth Rate at Several Countries
 
-Menggunakan data dari https://www.worldometers.info/coronavirus/ dalam rentang tanggal 22 Januari 2020 - 26 Maret 2020.
-
-Pengerjaan analisis numeris ini dimaksudkan untuk menyelesaikan UTS mata kuliah Metode Numeris, dengan pengerjaan secara individu.
+The dataset taken from https://www.worldometers.info/coronavirus/ (January 22, 2020 - March 26, 2020)
